@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "219473426882",
+    "firebase_url": "https://scan-f4ad9.firebaseio.com",
+    "project_id": "scan-f4ad9",
+    "storage_bucket": "scan-f4ad9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:219473426882:android:40981e9aef79f1f8327e5b",
+        "android_client_info": {
+          "package_name": "com.anany.scan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "219473426882-kbvqlkgi5lmvfd9rdlm0p9hjt1rm8eg5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB17J-hRuy7x1DSxa84ClW1nOKUPLPixAI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "219473426882-kbvqlkgi5lmvfd9rdlm0p9hjt1rm8eg5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
