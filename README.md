@@ -1,4 +1,4 @@
-# QR abd Barcode scan
+# QR & Barcode Scanner
 
 A new Flutter application.
 
@@ -16,7 +16,5 @@ For help getting started with Flutter, view our
 samples, guidance on mobile development, and a full API reference.
 
 
-![Preview](/1.png)
-![Preview](/2.png)
-![Preview](/3.png)
-![Preview](/4.png)
+![Preview](/11.png)
+
